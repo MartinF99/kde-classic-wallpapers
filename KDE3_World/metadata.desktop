@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=World Desktop
+Name[bg]=Работна среда Свят
+Name[cs]=Plocha světa
+Name[de]=Welt Arbeitsfläche
+Name[it]=Desktop Mondiale
+Name[pl]=Mapa świata
+Name[ru]=Мировой рабочий стол
+Name[sk]=Svet
+Name[uk]=Світова Стільниця
+
+
+X-KDE-PluginInfo-Name = world-desktop
+X-KDE-PluginInfo-Author=Unknown
+X-KDE-PluginInfo-License= LGPLv2
