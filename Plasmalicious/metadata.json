@@ -1,0 +1,51 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "david@oxygen-icons.org",
+                "Name": "David Vignoni"
+            }
+        ],
+        "Id": "Plasmalicious",
+        "License": "LGPLv3",
+        "Name": "Plasmalicious",
+        "Name[bs]": "Plazmaslastično",
+        "Name[ca@valencia]": "Plasmalicious",
+        "Name[ca]": "Plasmalicious",
+        "Name[cs]": "Plasmalicious",
+        "Name[da]": "Plasmalicious",
+        "Name[de]": "Plasmalicious",
+        "Name[en_GB]": "Plasmalicious",
+        "Name[es]": "Plasmalicioso",
+        "Name[et]": "Plasmalicious",
+        "Name[fi]": "Plasmalicious",
+        "Name[fr]": "Plasmalicious",
+        "Name[ga]": "Plasmalicious",
+        "Name[gl]": "Plasmalicious",
+        "Name[hu]": "Plasmalicious",
+        "Name[it]": "Plasmalizioso",
+        "Name[kk]": "Плазматикалық",
+        "Name[ko]": "Plasmalicious",
+        "Name[lt]": "Plasmalicious",
+        "Name[nb]": "Plasmatastisk",
+        "Name[nds]": "Plasmaliziöös",
+        "Name[nl]": "Plasmalicious",
+        "Name[nn]": "Plasmatastisk",
+        "Name[pl]": "Plasmalicious",
+        "Name[pt]": "Plasmalicioso",
+        "Name[pt_BR]": "Plasmalicioso",
+        "Name[ru]": "Плазмагия",
+        "Name[sk]": "Plasmalicious",
+        "Name[sl]": "Plasmastično",
+        "Name[sr@ijekavian]": "Плазмасластично",
+        "Name[sr@ijekavianlatin]": "Plasmaslastično",
+        "Name[sr@latin]": "Plasmaslastično",
+        "Name[sr]": "Плазмасластично",
+        "Name[sv]": "Plasmaläckert",
+        "Name[tr]": "Plasmalicious",
+        "Name[uk]": "Плазмотища",
+        "Name[x-test]": "xxPlasmaliciousxx",
+        "Name[zh_CN]": "Plasmalicious",
+        "Name[zh_TW]": "Plasmalicious"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "josephconnors@usa.net",
+                "Name": "Joseph Connors"
+            }
+        ],
+        "Id": "Red_Leaf",
+        "License": "LGPLv3",
+        "Name": "Red Leaf",
+        "Name[bg]": "Червено листо",
+        "Name[bs]": "Crveni list",
+        "Name[ca@valencia]": "Fulla roja",
+        "Name[ca]": "Fulla vermella",
+        "Name[cs]": "Červený list",
+        "Name[da]": "Red Leaf",
+        "Name[de]": "Rotes Blatt",
+        "Name[en_GB]": "Red Leaf",
+        "Name[es]": "Hoja roja",
+        "Name[et]": "Punane leht",
+        "Name[fi]": "Punainen lehti",
+        "Name[fr]": "Feuille rouge",
+        "Name[ga]": "Red Leaf",
+        "Name[gl]": "Folla vermella",
+        "Name[hu]": "Piros levél",
+        "Name[it]": "Foglia rossa",
+        "Name[kk]": "Қызыл жапырақ",
+        "Name[ko]": "붉은 잎",
+        "Name[lt]": "Raudonas lapas",
+        "Name[lv]": "Sarkanā lapa",
+        "Name[nb]": "Rødt blad",
+        "Name[nds]": "Root Blatt",
+        "Name[nl]": "Rood blad",
+        "Name[pl]": "Czerwony liść",
+        "Name[pt]": "Folha Vermelha",
+        "Name[pt_BR]": "Folha vermelha",
+        "Name[ru]": "Красный лист",
+        "Name[sk]": "Červený list",
+        "Name[sl]": "Rdeč list",
+        "Name[sr@ijekavian]": "Црвени листак",
+        "Name[sr@ijekavianlatin]": "Crveni listak",
+        "Name[sr@latin]": "Crveni listak",
+        "Name[sr]": "Црвени листак",
+        "Name[sv]": "Rött löv",
+        "Name[tr]": "Kırmızı Yaprak",
+        "Name[ug]": "قىزىل يوپۇرماق",
+        "Name[uk]": "Червоний листок",
+        "Name[x-test]": "xxRed Leafxx",
+        "Name[zh_CN]": "红叶",
+        "Name[zh_TW]": "紅葉"
+    }
+}

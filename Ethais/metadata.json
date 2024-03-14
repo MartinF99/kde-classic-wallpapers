@@ -1,0 +1,53 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "nuno@oxygen-icons.org",
+                "Name": "Nuno Pinheiro"
+            }
+        ],
+        "Id": "Ethais",
+        "License": "LGPLv3",
+        "Name": "Ethais",
+        "Name[bs]": "Ethais",
+        "Name[ca@valencia]": "Ethais",
+        "Name[ca]": "Ethais",
+        "Name[cs]": "Ethais",
+        "Name[da]": "Ethais",
+        "Name[de]": "Ethais",
+        "Name[el]": "Ethais",
+        "Name[en_GB]": "Ethais",
+        "Name[es]": "Ethais",
+        "Name[et]": "Ethais",
+        "Name[eu]": "Ethais",
+        "Name[fi]": "Ethais",
+        "Name[fr]": "Ethais",
+        "Name[ga]": "Ethais",
+        "Name[gl]": "Ethais",
+        "Name[hu]": "Ethais",
+        "Name[it]": "Ethais",
+        "Name[kk]": "Етаис",
+        "Name[ko]": "에타이스",
+        "Name[lt]": "Ethais",
+        "Name[lv]": "Ethais",
+        "Name[nb]": "Ethais",
+        "Name[nds]": "Ethais",
+        "Name[nl]": "Ethais",
+        "Name[pl]": "Ethais",
+        "Name[pt]": "Ethais",
+        "Name[pt_BR]": "Ethais",
+        "Name[ru]": "Ethais",
+        "Name[sk]": "Ethais",
+        "Name[sl]": "Ethais",
+        "Name[sr@ijekavian]": "Етаис",
+        "Name[sr@ijekavianlatin]": "Etais",
+        "Name[sr@latin]": "Etais",
+        "Name[sr]": "Етаис",
+        "Name[sv]": "Ethais",
+        "Name[tr]": "Ethais",
+        "Name[uk]": "Етаїс",
+        "Name[x-test]": "xxEthaisxx",
+        "Name[zh_CN]": "Ethais",
+        "Name[zh_TW]": "Ethais"
+    }
+}

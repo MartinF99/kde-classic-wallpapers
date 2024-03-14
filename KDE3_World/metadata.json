@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Unknown"
+            }
+        ],
+        "Id": "world-desktop",
+        "License": "LGPLv2",
+        "Name": "World Desktop",
+        "Name[bg]": "Работна среда Свят",
+        "Name[cs]": "Plocha světa",
+        "Name[de]": "Welt Arbeitsfläche",
+        "Name[it]": "Desktop Mondiale",
+        "Name[pl]": "Mapa świata",
+        "Name[ru]": "Мировой рабочий стол",
+        "Name[sk]": "Svet",
+        "Name[uk]": "Світова Стільниця"
+    }
+}

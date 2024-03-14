@@ -1,0 +1,53 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "christoph@traeumt.net",
+                "Name": "Christoph Kummer"
+            }
+        ],
+        "Id": "Evening",
+        "License": "LGPLv3",
+        "Name": "Evening",
+        "Name[bg]": "Вечер",
+        "Name[bs]": "Veče",
+        "Name[ca@valencia]": "Capvespre",
+        "Name[ca]": "Capvespre",
+        "Name[cs]": "Večer",
+        "Name[da]": "Aften",
+        "Name[de]": "Abend",
+        "Name[en_GB]": "Evening",
+        "Name[es]": "Atardecer",
+        "Name[et]": "Õhtu",
+        "Name[fi]": "Ilta",
+        "Name[fr]": "Soirée",
+        "Name[ga]": "Evening",
+        "Name[gl]": "Serán",
+        "Name[hu]": "Este",
+        "Name[it]": "Sera",
+        "Name[kk]": "Кешкісін",
+        "Name[ko]": "저녁",
+        "Name[lt]": "Vakaras",
+        "Name[lv]": "Vakars",
+        "Name[nb]": "Kveld",
+        "Name[nds]": "Avend",
+        "Name[nl]": "Avond",
+        "Name[pl]": "Wieczór",
+        "Name[pt]": "Noite",
+        "Name[pt_BR]": "Fim de tarde",
+        "Name[ru]": "Вечер",
+        "Name[sk]": "Podvečer",
+        "Name[sl]": "Večer",
+        "Name[sr@ijekavian]": "Вече",
+        "Name[sr@ijekavianlatin]": "Veče",
+        "Name[sr@latin]": "Veče",
+        "Name[sr]": "Вече",
+        "Name[sv]": "Kväll",
+        "Name[tr]": "Akşam",
+        "Name[ug]": "كەچ",
+        "Name[uk]": "Вечір",
+        "Name[x-test]": "xxEveningxx",
+        "Name[zh_CN]": "夜晚",
+        "Name[zh_TW]": "傍晚"
+    }
+}
